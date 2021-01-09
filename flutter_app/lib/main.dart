@@ -37,7 +37,7 @@ class StudentId extends StatelessWidget {
               style: TextStyle(
                 fontSize: 18.0,
                 color: Colors.grey,
-                letterSpacing: 2.0,
+                letterSpacing: 3.0,
               ),
             ),
             SizedBox(height: 10.0),
